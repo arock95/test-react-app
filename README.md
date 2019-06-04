@@ -1,5 +1,4 @@
-[![Known Vulnerabilities](https://snyk.io/test/github/arock95/test-react-app/badge.svg)](https://snyk.io/test/github/arock95/test-react-app)
-
+<*a href="https://snyk.io/test/github/arock95/test-react-app">
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
